@@ -1,0 +1,30 @@
+# 仮想環境
+.venv/
+venv/
+env/
+
+# Python キャッシュ
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# データファイル（大容量）
+*.csv
+sust-report*.txt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# エディタ
+.vscode/
+*.swp
+
+# Streamlit
+.streamlit/
+
+# 一時ファイル
+*.bat
+*.ps1
+temp_*.py
